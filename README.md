@@ -33,33 +33,26 @@ The automation system uses **Home Center Lite** as the central controller. Devic
 ---
 
 ## 🖼️ Screenshots
-The `Assets/` folder contains all the visual assets that showcase the app’s UI and key functionalities. The images are displayed in a **4x3 grid layout** for better clarity. Each image is set to a width of 200 pixels to ensure a uniform and visually appealing presentation:
 
 <table>
   <tr>
     <td><img src="Assets/0_Test_Panel_and_All_Devices.jpeg" alt="Test Panel and All Devices" width="200" /></td>
-    <td><img src="Assets/1_App_Icon_and_Name.png" alt="App Icon and Name" width="200" /></td>
+    <td><img src="Assets/1_App_Icon_and_Name.jpg" alt="App Icon and Name" width="200" /></td>
     <td><img src="Assets/2_Login_Screen.png" alt="Login Screen" width="200" /></td>
     <td><img src="Assets/3.1_Forgot_Password_Screen.png" alt="Forgot Password Screen" width="200" /></td>
   </tr>
   <tr>
-    <td><img src="Assets/3.2_Reset_Password_Step_1.png" alt="Reset Password Step 1" width="200" /></td>
+    <td><img src="Assets/3.2_Reset_Password_Step.png" alt="Reset Password Step 1" width="200" /></td>
     <td><img src="Assets/3.3_Reset_Password_Step_2.png" alt="Reset Password Step 2" width="200" /></td>
     <td><img src="Assets/4.1_Device_Control_Part_1.png" alt="Device Control Part 1" width="200" /></td>
     <td><img src="Assets/4.2_Device_Control_Part_2.png" alt="Device Control Part 2" width="200" /></td>
   </tr>
   <tr>
-    <td><img src="Assets/4.3_Device_Control_Complete.png" alt="Complete Device Control View" width="200" /></td>
     <td><img src="Assets/5_Admin_Panel.png" alt="Admin Panel" width="200" /></td>
     <td><img src="Assets/6_Log_Screen.png" alt="Log Screen" width="200" /></td>
     <td><img src="Assets/7_Power_Consumption_Screen.png" alt="Power Consumption Screen" width="200" /></td>
   </tr>
-  <tr>
-    <td><img src="Assets/8_Device_Settings_Screen.png" alt="Device Settings Screen" width="200" /></td>
-    <td><img src="Assets/9_User_Management_Screen.png" alt="User Management Screen" width="200" /></td>
-    <td><img src="Assets/10_Notification_Settings_Screen.png" alt="Notification Settings Screen" width="200" /></td>
-    <td><img src="Assets/11_System_Health_Monitor_Screen.png" alt="System Health Monitor Screen" width="200" /></td>
-  </tr>
+
 </table>
 
 ---
