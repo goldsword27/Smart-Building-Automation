@@ -43,7 +43,7 @@ The `Assets/` folder contains all the visual assets that showcase the app’s UI
     <td><img src="Assets/3.1_Forgot_Password_Screen.png" alt="Forgot Password Screen" width="200" /></td>
   </tr>
   <tr>
-    <td><img src="Assets/3.2_Reset_Password_Step_1.png" alt="Reset Password Step 1" width="200" /></td>
+    <td><img src="Assets/3.2_Reset_Password_Step.png" alt="Reset Password Step 1" width="200" /></td>
     <td><img src="Assets/3.3_Reset_Password_Step_2.png" alt="Reset Password Step 2" width="200" /></td>
     <td><img src="Assets/4.1_Device_Control_Part_1.png" alt="Device Control Part 1" width="200" /></td>
     <td><img src="Assets/4.2_Device_Control_Part_2.png" alt="Device Control Part 2" width="200" /></td>
@@ -52,13 +52,8 @@ The `Assets/` folder contains all the visual assets that showcase the app’s UI
     <td><img src="Assets/5_Admin_Panel.png" alt="Admin Panel" width="200" /></td>
     <td><img src="Assets/6_Log_Screen.png" alt="Log Screen" width="200" /></td>
     <td><img src="Assets/7_Power_Consumption_Screen.png" alt="Power Consumption Screen" width="200" /></td>
-    <td><img src="Assets/8_Device_Settings_Screen.png" alt="Device Settings Screen" width="200" /></td>
   </tr>
-  <tr>
-    <td><img src="Assets/9_User_Management_Screen.png" alt="User Management Screen" width="200" /></td>
-    <td><img src="Assets/10_Notification_Settings_Screen.png" alt="Notification Settings Screen" width="200" /></td>
-    <td><img src="Assets/11_System_Health_Monitor_Screen.png" alt="System Health Monitor Screen" width="200" /></td>
-  </tr>
+
 </table>
 
 ---
