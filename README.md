@@ -33,7 +33,6 @@ The automation system uses **Home Center Lite** as the central controller. Devic
 ---
 
 ## 🖼️ Screenshots
-The `Assets/` folder contains all the visual assets that showcase the app’s UI and key functionalities. The images are displayed in a **4x3 grid layout** for better clarity. Each image is set to a width of 200 pixels to ensure a uniform and visually appealing presentation:
 
 <table>
   <tr>
