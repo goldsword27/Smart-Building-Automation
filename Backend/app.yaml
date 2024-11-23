@@ -1,0 +1,15 @@
+runtime: nodejs20
+
+env_variables:
+  DB_HOST: globalmobilerepair.com
+  DB_PORT: 3306
+  DB_USER: u947677906_tbmyotomasyon
+  DB_PASSWORD: DFVJZVsblzX2U1PaC1yFYIBFczuxlRIi
+  DB_NAME: u947677906_tbmyotomasyon
+  EMAIL_USER: tbmyotomasyon@gmail.com
+  EMAIL_PASS: ttek ixed xmsu iaqg
+  JWT_SECRET: DFVJZVsblzX2U1PaC1yFYIBFczuxlRIi
+
+handlers:
+  - url: /.*
+    script: auto
