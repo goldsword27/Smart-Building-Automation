@@ -55,41 +55,6 @@ The automation system uses **Home Center Lite** as the central controller. Devic
 
 </table>
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-- Node.js installed on your machine.
-- Android Studio for building and running the mobile application.
-```
-
-### Setup Steps
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/smart-building-automation.git
-   cd smart-building-automation
-   ```
-
-2. **Backend Setup**:
-   - Navigate to the `backend/` folder:
-
-     ```bash
-     cd backend
-     npm install
-     ```
-
-   - Start the server:
-
-     ```bash
-     node app.js
-     ```
-
-3. **Frontend Setup**:
-   - Open the `app/` folder in **Android Studio**.
-   - Build and run the application on an emulator or connected device.
 
 ---
 
