@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
-const cors = require('cors'); // CORS ekleyin
+const cors = require('cors'); 
 const { sequelize } = require('./models');
 const authRoutes = require('./routes/auth');
 const deviceRoutes = require('./routes/device');
@@ -12,8 +12,8 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 8080;
 
-app.use(cors()); // CORS kullanın
-app.use(bodyParser.json()); // Tüm isteklerde JSON parser kullanın
+app.use(cors()); 
+app.use(bodyParser.json()); 
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use('/auth', authRoutes);
