@@ -171,7 +171,7 @@ exports.addUser = async (req, res) => {
 
         const user = await User.create({ email, password: hashedPassword });
 
-        // Yeni şifreyi kişinin E-postasına gönderimini simüle ettim şimdilik
+
         console.log(`E-posta gönderildi: ${email}`);
         console.log(`Geçici şifre: ${randomPassword}`);
 
